@@ -1,0 +1,294 @@
+/* .custmdiv{
+    height: 79px;
+    
+} */
+a{
+    text-decoration: none;
+    font-weight: 500;
+}
+.nav-item a:hover{
+    color: #5e068a;
+}
+ 
+ .main{
+     width: 100%;
+     height: 35px;
+     
+     background-color: #5e068a;
+     position: relative;
+     top: 0px;
+ } 
+.col1{
+    color: white;
+    font-size: 13px;
+    position: absolute;
+    left: 90px;
+    top: 3px;
+    
+    width: 115px;
+    height: 25px;
+}
+.col2{
+    position: relative;
+    left: 206px;
+    top:1px ;
+    
+    width: 105px;
+    height: 27px;
+
+}
+.col2 a{
+    color: white;
+    font-size: 13px;
+}
+.col3{
+    position: relative;
+    left: 893px;
+    top: -23px;
+    border: 1px solid black;
+
+    width: 29px;
+    height: 27px;
+}
+.col3 a{
+    color: white;
+    margin-left: 5px;
+}
+.col4{
+    position: relative;
+    left: 925px;
+    top: -49px;
+    border: 1px solid black;
+    width: 113px;
+    height: 27px;
+}
+.col4 a{
+    color: white;
+    font-weight: 200;
+    font-size: 15px;
+}
+.col5{
+    position: relative;
+    left: 1042px;
+    top: -76px;
+    border: 1px solid black;
+    width: 27px;
+    height: 27px;
+}
+.col5 a{
+    color: white;
+    margin-left: 5px;
+   
+}
+.col6{
+    position: relative;
+    left: 1072px;
+    top: -104px;
+    
+    width: 242px;
+    height: 27px;
+}
+.col6 a{
+    color: white;
+    margin-left: 3px;
+    font-weight: 200;
+    font-size: 14px;
+}
+.col-4 h1{
+    font-size: 34px;
+    color: #5e068a;
+
+}
+.col-8 h1{
+    font-size: 34px;
+    color: #5e068a99;
+}
+.col-6 button{
+    background-color: #5e068a;
+    color: white;
+    border-radius: 20px;
+    font-size: small;
+    font-weight: bold;
+    
+}
+.col-6 button:hover{
+    background-color: white;
+    border-color:#5e068a ;
+    border-width: 2px;
+    color: #5e068a;
+}
+.carousel-item img{
+    height: 520px;
+
+}
+.carousel-caption{
+    width: 806px;
+    height: 333px;
+    position: absolute;
+    left: 187px;
+    top: 149px;
+
+}
+.org1p1{
+    width: 772px;
+    height:111px ;
+
+}
+.org1p1 h1{
+    text-align: left;
+    
+}
+.org1p2{
+    width: 616px;
+    height:75px ;
+}
+.org1button{
+    width: 154px;
+    height:75px ;
+
+}
+.org1button button{
+    width: 149px;
+    height: 54px; 
+    background-color: #5e068a;
+    color: white;
+    border-radius: 20px;
+    font-size: small;
+    font-weight: bold;
+}
+.org1button button:hover{
+    background-color: #5e068a99;
+    border-color:#5e068a99 ;
+    border-width: 2px;
+    color:white;
+}
+
+.org2p1{
+    width: 772px;
+    height:145px ;
+
+}
+.org2p1 h1{
+    text-align: left;
+    
+    
+    
+}
+.org2p2{
+    width: 616px;
+    height:75px ;
+    position: relative;
+    left: 0px;
+    top: 17px;
+}
+/* .org2p2 p{
+    color: white;
+} */
+.org2button{
+    width: 154px;
+    height:62px ;
+    position: relative;
+    left: 0px;
+    top: 25px;
+
+}
+.org2button button{
+    width: 149px;
+    height: 54px; ;
+    background-color: #5e068a;
+    color: white;
+    border-radius: 20px;
+    font-size: small;
+    font-weight: bold;
+}
+.org2button button:hover{
+    background-color: #5e068a99;
+    border-color:#5e068a99 ;
+    border-width: 2px;
+    color:white;
+}
+.cardbackground{
+    width: 100%;
+    height: 1600px;
+    background-color: #f5f5f5;
+}
+.coursehead{
+    position: absolute;
+    left: 0px;
+    top:1413px;
+    width: 100%;
+}
+.row .col-3:nth-child(2){
+    color:#5e068a ;
+}
+.row .col-3:nth-child(3){
+    color:#5e068a99 ;
+}
+.course1card{
+    width: 1120px;
+    position: relative;
+    left: 105px;
+    top: 204px;
+    height: 283px;
+
+}
+.card img{
+    height:280px ;
+}
+.card-group{
+    width:1120px ;
+    position: relative;
+    left: 105px;
+    top: 233px ;
+}
+.card
+{
+  width: 92.3%;
+}
+.card-body a{
+ color: #5e068a;
+}
+.endbutton{
+    width: 292px;
+    position: relative;
+    left: 504px;
+    top:300px ;
+    height: 77px;
+}
+.endbutton button{
+    background-color: #5e068a;
+    color: white;
+    border-radius: 20px;
+    font-size: small;
+    font-weight: bold;
+    width: 149px;
+    height: 54px; 
+}
+.endbutton button:hover{
+    background-color: white;
+    border-color:#5e068a ;
+    border-width: 2px;
+    color: #5e068a;
+}
+@media(max-width:500px){
+    .main{
+    width: 500px;
+     height: 65px;
+    }
+    .col3{
+        background-color: white;
+    }
+    col4{
+        background-color: white;
+    }
+    .col5{
+        position: absolute;
+        left: 92px;
+        top: 26px;
+    }
+    .col6{
+        position: absolute;
+        left: 124px;
+        top: 26px;
+    }
+}
